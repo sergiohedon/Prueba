@@ -1,7 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
-        Print("adf")
+        Print("asdf")
     End Sub
 
 End Module
